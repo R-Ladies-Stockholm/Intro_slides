@@ -82,3 +82,26 @@ Who we are...
 - We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities.  
   
 - Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in and/or working with R.
+
+Learn more about R Communities...
+========================================================
+<style>
+
+.reveal .section p {
+    font-size:30pt;
+    font-family: 'Oswald', sans-serif;
+    color: #000000;
+}
+
+</style>
+
+
+- R-Ladies , https://rladies.org/  
+
+- R-Ladies Code of Conduct, https://rladies.org/code-of-conduct/  
+
+- R-Consortium, https://www.r-consortium.org/  
+
+- ROpenSci, https://ropensci.org/  
+
+- RStudio, https://community.rstudio.com/
