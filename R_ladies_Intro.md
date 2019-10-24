@@ -69,7 +69,8 @@ color:#88398a;
 } 
 </style>
 
-While you are ALL very welcome, this is primarily a space for women and gender minorities. We urge you to be mindful in your participation. We all bring varying degrees of power to this space and we'd like to remind you to be cognizant of your own power, position and privilege. Please take the space you need to engage with the event, but also make space for others to do the same.
+While you are ALL very welcome, this is primarily a space for women and gender minorities. We urge you to be mindful in your participation. We all bring varying degrees of power to this space and we'd like to remind you to be cognizant of your own power, position and privilege. Please take the space you need to engage with the event, but also make space for others to do the same.  
+-from R-Ladies Chicago
 
 
 R-Ladies Global 
